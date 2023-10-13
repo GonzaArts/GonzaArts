@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=gonzaarts.gonzaarts" alt="Visitor Badge">
-</p>
-<p align="center">
   <a href="#" title="Instagram">
     <img src="https://img.shields.io/badge/@GonzaArts%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
