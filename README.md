@@ -1,15 +1,15 @@
-![Nurahmat Web Developer](/images/cover.png)
+![Welcome](/images/cover.png)
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=GonzaArts.GonzaArts" alt="Visitor Badge">
 </p>
 <p align="center">
-  <a href="https://instagram.com/nurofsun" title="Instagram">
+  <a href="#" title="Instagram">
     <img src="https://img.shields.io/badge/@GonzaArts%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/nurofsun" title="Twitter">
+  <a href="#" title="Twitter">
     <img src="https://img.shields.io/badge/@GonzaArts%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/nurrahmat99/" title="Linkedin">
+  <a href="#" title="Linkedin">
     <img src="https://img.shields.io/badge/GonzaArts%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
