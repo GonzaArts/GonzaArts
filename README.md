@@ -1,4 +1,3 @@
-![Welcome](/images/cover.png)
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=GonzaArts.GonzaArts" alt="Visitor Badge">
 </p>
@@ -48,10 +47,4 @@ const profile = {
   <span><img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/></span>
-</p>
-<p align="center">
-  <h6>FAVORITE PLACE</h6>
-  <a href="https://vercel.com">
-    <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
 </p>
