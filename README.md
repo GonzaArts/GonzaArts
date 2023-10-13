@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=GonzaArts.GonzaArts" alt="Visitor Badge">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=gonzaarts.gonzaarts" alt="Visitor Badge">
 </p>
 <p align="center">
   <a href="#" title="Instagram">
